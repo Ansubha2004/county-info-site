@@ -1,7 +1,7 @@
 # COUNTRY INFO SITE
 
 
-The contact form page is desktop and mobile responsive.
+The country info page is desktop and mobile responsive.
 <br><br>
 Developed by Ansubha Dhar
 <br>

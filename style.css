@@ -228,7 +228,7 @@ input:focus{
 }
 #main2
 {
-    height:90.5vh;
+    height:100vh;
 }
 #details
 {
@@ -279,7 +279,7 @@ input:focus{
 #back:active,.neighbours:active{
     background-color:grey;
 }
-@media(max-width:380px)
+@media(max-width:450px)
 {
     main{
         padding: 90px 30px 81px 30px;

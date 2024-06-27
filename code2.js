@@ -36,7 +36,6 @@ for(let country of data)
                 let borders=document.querySelector("#borders");
                 for(let neighbour of country["borders"])
                     {
-                        console.log(neighbour);
                         for(let con of data)
                             {
                                 if(neighbour==con["alpha3Code"])

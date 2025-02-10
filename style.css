@@ -68,33 +68,12 @@ main{
     justify-content:space-between;
     margin-bottom:50px;
 }
-#backbutton
-{
-    width:120px;
-    height:auto;
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    margin-bottom:50px;
-}
 #search
 {
     height:40px;
     width:40%;
     border-radius:5px;
     display:flex;
-    align-items:center;
-    box-sizing:border-box;
-    padding-left:30px;
-    padding-right:30px;
-}
-#back
-{
-    height:40px;
-    width:100%;
-    border-radius:5px;
-    display:flex;
-    justify-content:space-between;
     align-items:center;
     box-sizing:border-box;
     padding-left:30px;
@@ -215,6 +194,7 @@ input:focus{
 }
 #countrydetails
 {
+    padding-top:10%;
     display:flex;
     align-items:center;
     width:100%;
